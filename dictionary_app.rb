@@ -65,4 +65,4 @@ end
 
 system "clear" 
 puts "" 
-puts "BYE FELICIA" 
+puts "*~~* BYE FELICIA *~~*" 
